@@ -16,7 +16,7 @@
         "precio": 30000,
         "destacado": true,
         "imagen": "mate-imperialbronce.jpg"
-    },    
+    },
     {
         "id": 3,
         "nombre": "Imperial de Bronce con Dije Sol Argentino.",
@@ -34,7 +34,7 @@
         "precio": 30000,
         "destacado": false,
         "imagen": "mate-algarrobo.jpg"
-    },    
+    },
     {
         "id": 5,
         "nombre": "Mate Ranchero",
@@ -52,34 +52,34 @@
         "precio": 32000,
         "destacado": true,
         "imagen": "mate-maradona.jpg"
-    },    
+    },
     {
-        "id":7 ,
+        "id": 7,
         "nombre": "Imperial Grabado River ",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de River Plate. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": true,
         "imagen": "mate-river.jpg"
-    },  
+    },
     {
-        "id":8 ,
+        "id": 8,
         "nombre": "Imperial Grabado Messi",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de Messi. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": false,
         "imagen": "mate-messi.jpg"
-    },  
+    },
     {
-        "id":9 ,
+        "id": 9,
         "nombre": "Imperial Grabado Argentina",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de Identidad Argentina. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": false,
         "imagen": "mate-patagonia.jpg"
-    },  
+    },
     {
         "id": 10,
         "nombre": "Combo River Plate",
@@ -106,7 +106,7 @@
         "precio": 30000,
         "destacado": false,
         "imagen": "termos-colores.jpg"
-    },    
+    },
     {
         "id": 14,
         "nombre": "Termo Pico cebador 1L",
@@ -177,23 +177,31 @@
         "descripcion": "Par de latas de metal para azúcar y yerba, perfectas para mantener el orden en tu set de mate. Disponibles en seis colores: blanco, gris, violeta, rosa, verde y negro. Prácticas y herméticas.",
         "precio": 7000,
         "destacado": true,
-        "imagen": "lata-materoblanca.jpg"
+        "imagen": "lata-materoblanca.jpg",
+        "imagenes": [
+            "lata-materoblanca.jpg",
+            "lata-materogris.jpg",
+            "lata-materorosas.jpg",
+            "lata-materoverde.jpg",
+            "lata-materovioleta.jpg",
+            "latas-materonegro.jpg"
+        ]
     },
     {
         "id": 22,
         "nombre": "Canasta AFA ",
         "categoria": "canastas",
         "descripcion": " Canasta matera de cuero con diseño oficial AFA en azul. Ideal para llevar tu set de mate completo con el orgullo de la Selección",
-        "precio":32000 ,
+        "precio": 32000,
         "destacado": false,
         "imagen": "matera-afa.jpg"
     },
-        {
+    {
         "id": 23,
         "nombre": "Canasta Cuerina  ",
         "categoria": "canastas",
         "descripcion": "Canasta matera de cuerina para tu set de mate completo. Diseño clásico con el espacio justo para llevar todo lo que necesitás a donde vayas ",
-        "precio":22000 ,
+        "precio": 22000,
         "destacado": false,
         "imagen": "matera-marron.jpg"
     },
@@ -202,7 +210,7 @@
         "nombre": "Canasta Simple ",
         "categoria": "canastas",
         "descripcion": "Canasta matera de cuero para mate y termo. Compacta y fácil de transportar, perfecta para los team amargo. Ideal para llevarla a todos lados.",
-        "precio":30000 ,
+        "precio": 30000,
         "destacado": true,
         "imagen": "matera-mitad.jpg"
     },
@@ -215,6 +223,4 @@
         "destacado": false,
         "imagen": "totebag.jpg"
     }
-
-
 ]
