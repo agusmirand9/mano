@@ -21,8 +21,20 @@ if($producto == null){
 
         <div class="detalle-grid">
             <div class="detalle-imagen">
-                <img src="<?php echo $producto->getImagenSrc(); ?>" alt="<?php echo $producto->getNombre(); ?>">
+                <img id="imagen-principal" src="<?php echo $producto->getImagenSrc(); ?>" alt="<?php echo $producto->getNombre(); ?>">
 
+                <?php if ($producto->tieneGaleria()): ?>
+                <div class="galeria-miniaturas">
+                    <?php foreach ($producto->getImagenes() as $img): ?>
+                        <img 
+                            src="assets/img/productos/<?php echo $img; ?>" 
+                            alt="<?php echo $producto->getNombre(); ?>"
+                            class="miniatura <?php echo $img === $producto->getImagen() ? 'miniatura-activa' : ''; ?>"
+                            onclick="cambiarImagen(this)"
+                        >
+                    <?php endforeach; ?>
+                </div>
+                <?php endif; ?>
             </div>
 
             <div class="detalle-info">
@@ -53,3 +65,41 @@ if($producto == null){
     </div>
 
 </section>
+
+<style>
+.galeria-miniaturas {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.miniatura {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border-radius: var(--radio);
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: border-color 0.2s, transform 0.2s;
+    opacity: 0.75;
+}
+
+.miniatura:hover {
+    opacity: 1;
+    transform: translateY(-2px);
+}
+
+.miniatura-activa {
+    border-color: var(--naranja);
+    opacity: 1;
+}
+</style>
+
+<script>
+function cambiarImagen(miniatura) {
+    document.getElementById('imagen-principal').src = miniatura.src;
+    document.querySelectorAll('.miniatura').forEach(m => m.classList.remove('miniatura-activa'));
+    miniatura.classList.add('miniatura-activa');
+}
+</script>
