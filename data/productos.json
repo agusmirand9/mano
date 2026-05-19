@@ -93,7 +93,7 @@
         "id": 11,
         "nombre": "Combo Boca Juniors",
         "categoria": "combos",
-        "descripcion": "Combo completo para el hincha xeneize: mate caminero de algarrobo con grabado de Boca Juniors, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Mateá con la pasión de la Bombonera.
+        "descripcion": "Combo completo para el hincha xeneize: mate caminero de algarrobo con grabado de Boca Juniors, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Mateá con la pasión de la Bombonera."
         "precio": 40000,
         "destacado": false,
         "imagen": "combo-boca.png"
@@ -192,7 +192,7 @@
         "id": 23,
         "nombre": "Canasta Cuerina  ",
         "categoria": "canastas",
-        "descripcion": "Canasta matera de cerina para tu set de mate completo. Diseño clásico con el espacio justo para llevar todo lo que necesitás a donde vayas ",
+        "descripcion": "Canasta matera de cuerina para tu set de mate completo. Diseño clásico con el espacio justo para llevar todo lo que necesitás a donde vayas ",
         "precio":22000 ,
         "destacado": false,
         "imagen": "matera-marron.jpg"
