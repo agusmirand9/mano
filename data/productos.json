@@ -86,7 +86,7 @@
         "categoria": "combos",
         "descripcion": "Combo completo para el hincha millonario: mate caminero de algarrobo con grabado de River Plate, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Todo lo que necesitás para matear con los colores del más grande.",
         "precio": 40000,
-        "destacado": true,
+        "destacado": false,
         "imagen": "combo-river.png"
     },
     {
