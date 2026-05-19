@@ -24,14 +24,28 @@ if($producto == null){
                 <img id="imagen-principal" src="<?php echo $producto->getImagenSrc(); ?>" alt="<?php echo $producto->getNombre(); ?>">
 
                 <?php if ($producto->tieneGaleria()): ?>
-                <div class="galeria-miniaturas">
-                    <?php foreach ($producto->getImagenes() as $img): ?>
-                        <img 
-                            src="assets/img/productos/<?php echo $img; ?>" 
-                            alt="<?php echo $producto->getNombre(); ?>"
-                            class="miniatura <?php echo $img === $producto->getImagen() ? 'miniatura-activa' : ''; ?>"
-                            onclick="cambiarImagen(this)"
-                        >
+                <?php 
+                $colores = [
+                    'lata-materoblanca.jpg'  => ['color' => '#f0f0f0', 'label' => 'Blanco'],
+                    'lata-materogris.jpg'    => ['color' => '#888888', 'label' => 'Gris'],
+                    'lata-materorosas.jpg'   => ['color' => '#f4a0b0', 'label' => 'Rosa'],
+                    'lata-materoverde.jpg'   => ['color' => '#6abf6a', 'label' => 'Verde'],
+                    'lata-materovioleta.jpg' => ['color' => '#9b6abf', 'label' => 'Violeta'],
+                    'latas-materonegro.jpg'  => ['color' => '#222222', 'label' => 'Negro'],
+                ];
+                ?>
+                <div class="galeria-colores">
+                    <?php foreach ($producto->getImagenes() as $img): 
+                        $color = $colores[$img]['color'] ?? '#ccc';
+                        $label = $colores[$img]['label'] ?? $img;
+                    ?>
+                        <div
+                            class="color-swatch <?php echo $img === $producto->getImagen() ? 'swatch-activo' : ''; ?>"
+                            style="background-color: <?php echo $color; ?>;"
+                            data-src="assets/img/productos/<?php echo htmlspecialchars($img); ?>"
+                            title="<?php echo $label; ?>"
+                            onclick="cambiarColor(this)"
+                        ></div>
                     <?php endforeach; ?>
                 </div>
                 <?php endif; ?>
@@ -67,39 +81,38 @@ if($producto == null){
 </section>
 
 <style>
-.galeria-miniaturas {
+.galeria-colores {
     display: flex;
     gap: 0.5rem;
     margin-top: 0.75rem;
     flex-wrap: wrap;
 }
 
-.miniatura {
-    width: 60px;
-    height: 60px;
-    object-fit: cover;
+.color-swatch {
+    width: 36px;
+    height: 36px;
     border-radius: var(--radio);
     border: 2px solid transparent;
     cursor: pointer;
-    transition: border-color 0.2s, transform 0.2s;
-    opacity: 0.75;
+    transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.15);
 }
 
-.miniatura:hover {
-    opacity: 1;
+.color-swatch:hover {
     transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-.miniatura-activa {
+.swatch-activo {
     border-color: var(--naranja);
-    opacity: 1;
+    transform: translateY(-2px);
 }
 </style>
 
 <script>
-function cambiarImagen(miniatura) {
-    document.getElementById('imagen-principal').src = miniatura.src;
-    document.querySelectorAll('.miniatura').forEach(m => m.classList.remove('miniatura-activa'));
-    miniatura.classList.add('miniatura-activa');
+function cambiarColor(swatch) {
+    document.getElementById('imagen-principal').src = swatch.dataset.src;
+    document.querySelectorAll('.color-swatch').forEach(s => s.classList.remove('swatch-activo'));
+    swatch.classList.add('swatch-activo');
 }
 </script>
