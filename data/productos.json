@@ -203,7 +203,7 @@
         "categoria": "canastas",
         "descripcion": "Canasta Matera cuero para Mate y Termo ",
         "precio":30000 ,
-        "destacado": false,
+        "destacado": true,
         "imagen": "matera-mitad.jpg"
     },
     {
