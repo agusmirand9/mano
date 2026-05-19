@@ -8,6 +8,7 @@ private string $descripcion;
 private float $precio;
 private bool $destacado;
 private string $imagen;
+private array $imagenes;
 
 
 public function __construct(array $data)
@@ -19,6 +20,7 @@ public function __construct(array $data)
     $this->precio = $data['precio'];
     $this->destacado = $data['destacado'];
     $this->imagen = $data['imagen'];
+    $this->imagenes = $data['imagenes'] ?? [];
 
 }
 
@@ -29,6 +31,8 @@ public function getDescripcion(): string {return $this->descripcion;}
 public function getPrecio(): float {return $this->precio;}
 public function isDestacado(): bool {return $this->destacado;}
 public function getImagen(): string {return $this->imagen;}
+public function getImagenes(): array {return $this->imagenes;}
+public function tieneGaleria(): bool {return count($this->imagenes) > 0;}
 
 
 
