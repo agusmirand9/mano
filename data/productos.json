@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Imperial de Acero",
         "categoria": "mates",
-        "descripcion": "Mate Imperial con Guarda de Acero, Base ancha y Bombilla Pico de Loro con pala.",
+        "descripcion": "Mate Imperial con Guarda de Acero inoxidable y Base ancha. Incluye Bombilla Pico de Loro con pala. Resistente y duradero para el dia a dia",
         "precio": 28000,
         "destacado": false,
         "imagen": "mate-imperialacero.jpg"
@@ -12,7 +12,7 @@
         "id": 2,
         "nombre": "Imperial de Bronce",
         "categoria": "mates",
-        "descripcion": "Mate Imperial con Guarda de Bronce. Base ancha y Bombilla Pico de Loro con pala.",
+        "descripcion": "Mate Imperial con Guarda de Bronce. Base ancha para mayor estabilidad e incluye bombilla Pico de Loro con pala.",
         "precio": 30000,
         "destacado": true,
         "imagen": "mate-imperialbronce.jpg"
@@ -21,7 +21,7 @@
         "id": 3,
         "nombre": "Imperial de Bronce con Dije Sol Argentino.",
         "categoria": "mates",
-        "descripcion": "Mate Imperial con Guarda de Acero y Dije del Sol Argentino. Base ancha y Bombilla Pico de Loro con pala.",
+        "descripcion": "Mate Imperial con Guarda de Acero y Dije del Sol Argentino. Base ancha e incluye bombilla Pico de Loro con pala.",
         "precio": 35000,
         "destacado": true,
         "imagen": "mate-imperialdije.jpg"
@@ -30,7 +30,7 @@
         "id": 4,
         "nombre": "Mate de Algarrobo",
         "categoria": "mates",
-        "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande, ideal para compartir.",
+        "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande e incluye bombilla Pico de Loro con pala. Ideal para cualquier horario del dia",
         "precio": 30000,
         "destacado": false,
         "imagen": "mate-algarrobo.jpg"
@@ -39,7 +39,7 @@
         "id": 5,
         "nombre": "Mate Ranchero",
         "categoria": "mates",
-        "descripcion": "Mate Ranchero Diseño blanco.",
+        "descripcion": "Mate ranchero con diseño pintado en blanco, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
         "precio": 30000,
         "destacado": false,
         "imagen": "mate-pintadoblanco.jpg"
@@ -48,7 +48,7 @@
         "id": 6,
         "nombre": "Imperial Grabado Maradona ",
         "categoria": "mates",
-        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:Maradona .",
+        "descripcion": "Mate Imperial con guarda de alpaca y grabado del Diego. Tamaño mediano, perfecto para el amante del fútbol, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": true,
         "imagen": "mate-maradona.jpg"
@@ -57,7 +57,7 @@
         "id":7 ,
         "nombre": "Imperial Grabado River ",
         "categoria": "mates",
-        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:River .",
+        "descripcion": "Mate Imperial con guarda de alpaca y grabado de River Plate. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": true,
         "imagen": "mate-river.jpg"
@@ -66,7 +66,7 @@
         "id":8 ,
         "nombre": "Imperial Grabado Messi",
         "categoria": "mates",
-        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:Messi .",
+        "descripcion": "Mate Imperial con guarda de alpaca y grabado de Messi. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": false,
         "imagen": "mate-messi.jpg"
@@ -75,7 +75,7 @@
         "id":9 ,
         "nombre": "Imperial Grabado Argentina",
         "categoria": "mates",
-        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:Argentina .",
+        "descripcion": "Mate Imperial con guarda de alpaca y grabado de Identidad Argentina. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
         "destacado": false,
         "imagen": "mate-patagonia.jpg"
@@ -84,16 +84,16 @@
         "id": 10,
         "nombre": "Combo River Plate",
         "categoria": "combos",
-        "descripcion": "Mate caminero algarrobo grabado River Plate + bombilla pico curva acero.",
+        "descripcion": "Combo completo para el hincha millonario: mate caminero de algarrobo con grabado de River Plate, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Todo lo que necesitás para matear con los colores del más grande.",
         "precio": 40000,
-        "destacado": false,
+        "destacado": true,
         "imagen": "combo-river.png"
     },
     {
         "id": 11,
         "nombre": "Combo Boca Juniors",
         "categoria": "combos",
-        "descripcion": "Mate caminero algarrobo grabado Boca Juniors + bombilla pico curva acero.",
+        "descripcion": "Combo completo para el hincha xeneize: mate caminero de algarrobo con grabado de Boca Juniors, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Mateá con la pasión de la Bombonera.
         "precio": 40000,
         "destacado": false,
         "imagen": "combo-boca.png"
@@ -102,7 +102,7 @@
         "id": 13,
         "nombre": "Termo System 1L",
         "categoria": "termos",
-        "descripcion": "Varios colores(Negro, Gris, Blanco, Rosa , Lila).",
+        "descripcion": "Termo de 1 litro con excelente conservación del calor, disponible en cinco colores: negro, gris, blanco, rosa y lila. Práctico, duradero y con el tamaño ideal.",
         "precio": 30000,
         "destacado": false,
         "imagen": "termos-colores.jpg"
@@ -111,7 +111,7 @@
         "id": 14,
         "nombre": "Termo Pico cebador 1L",
         "categoria": "termos",
-        "descripcion": ".",
+        "descripcion": "Termo de 1 litro con pico cebador. Ideal para matear sin perder temperatura. Diseño sobrio y funcional para el día a día.",
         "precio": 22000,
         "destacado": true,
         "imagen": "termo-negro.jpg"
@@ -120,7 +120,7 @@
         "id": 15,
         "nombre": "Termo Grabado Argentina Pico cebador 1L",
         "categoria": "termos",
-        "descripcion": "Grabado Argentina.",
+        "descripcion": "Termo de 1 litro con pico cebador y grabado de Argentina.",
         "precio": 30000,
         "destacado": false,
         "imagen": "termo-arg2.jpg"
@@ -129,7 +129,7 @@
         "id": 16,
         "nombre": "Termo Grabado Malvinas Pico cebador 1L",
         "categoria": "termos",
-        "descripcion": "Grabado Malvinas.",
+        "descripcion": "Termo de 1 litro con pico cebador y grabado Malvinas Argentinas.",
         "precio": 30000,
         "destacado": false,
         "imagen": "termo-arg.jpg"
@@ -138,7 +138,7 @@
         "id": 17,
         "nombre": "Bombilla Alpaca Pico de Loro",
         "categoria": "bombillas",
-        "descripcion": "Bombilla de alpaca con filtro pico de loro.",
+        "descripcion": "Bombilla de alpaca con filtro pico de loro, ideal para yerbas finas y cortadas. Resistente y de fácil limpieza..",
         "precio": 7000,
         "destacado": false,
         "imagen": "bombilla-picodeloro.jpg"
@@ -147,7 +147,7 @@
         "id": 18,
         "nombre": "Bombillon de Acero",
         "categoria": "bombillas",
-        "descripcion": "Bombilla de acero inoxidable.",
+        "descripcion": "Bombillón de acero inoxidable de mayor calibre, ideal para yerbas gruesas y mezclas. Resistente a la corrosión.",
         "precio": 7000,
         "destacado": true,
         "imagen": "bombillon-acero.jpg"
@@ -156,7 +156,7 @@
         "id": 19,
         "nombre": "Bombillon de Bronce",
         "categoria": "bombillas",
-        "descripcion": "Bombilla de Bronce.",
+        "descripcion": "Bombillón de bronce con acabado cálido y elegante. Excelente filtrado y resistencia..",
         "precio": 15000,
         "destacado": false,
         "imagen": "bombillon-bronce.jpg"
@@ -165,7 +165,7 @@
         "id": 20,
         "nombre": "Bombilla de Alpaca",
         "categoria": "bombillas",
-        "descripcion": "Bombilla de Alpaca.",
+        "descripcion": "Bombilla de alpaca de diseño clásico y acabado plateado. Liviana, resistente y de fácil mantenimiento.",
         "precio": 13500,
         "destacado": false,
         "imagen": "bombilla-alpaca.jpg"
@@ -174,7 +174,7 @@
         "id": 21,
         "nombre": "Latas Azucarera y Yerbera",
         "categoria": "Latas",
-        "descripcion": "Par de latas de metal para azúcar y yerba.(BLANCO.GRIS,VIOLETA,ROSA,VERDE,NEGRO)",
+        "descripcion": "Par de latas de metal para azúcar y yerba, perfectas para mantener el orden en tu set de mate. Disponibles en seis colores: blanco, gris, violeta, rosa, verde y negro. Prácticas y herméticas.",
         "precio": 7000,
         "destacado": true,
         "imagen": "lata-materoblanca.jpg"
@@ -183,16 +183,16 @@
         "id": 22,
         "nombre": "Canasta AFA ",
         "categoria": "canastas",
-        "descripcion": " Canasta Matera cuero, Diseño Azul AFA para Set de Mate",
+        "descripcion": " Canasta matera de cuero con diseño oficial AFA en azul. Ideal para llevar tu set de mate completo con el orgullo de la Selección",
         "precio":32000 ,
         "destacado": false,
         "imagen": "matera-afa.jpg"
     },
         {
         "id": 23,
-        "nombre": "Canasta Cuero  ",
+        "nombre": "Canasta Cuerina  ",
         "categoria": "canastas",
-        "descripcion": "CanaCanasta Matera cuero para Set de Matesta ",
+        "descripcion": "Canasta matera de cerina para tu set de mate completo. Diseño clásico con el espacio justo para llevar todo lo que necesitás a donde vayas ",
         "precio":22000 ,
         "destacado": false,
         "imagen": "matera-marron.jpg"
@@ -201,7 +201,7 @@
         "id": 24,
         "nombre": "Canasta Simple ",
         "categoria": "canastas",
-        "descripcion": "Canasta Matera cuero para Mate y Termo ",
+        "descripcion": "Canasta matera de cuero para mate y termo. Compacta y fácil de transportar, perfecta para los team amargo. Ideal para llevarla a todos lados.",
         "precio":30000 ,
         "destacado": true,
         "imagen": "matera-mitad.jpg"
@@ -210,7 +210,7 @@
         "id": 25,
         "nombre": "Tote Bag ",
         "categoria": "totebag",
-        "descripcion": "Totebag negra grande ",
+        "descripcion": "Bolsa tote negra de gran tamaño, ideal para llevar tu set de mate, la yerba, el termo y todo lo que necesitás para el día. Resistente y comoda.",
         "precio": 10000,
         "destacado": false,
         "imagen": "totebag.jpg"
