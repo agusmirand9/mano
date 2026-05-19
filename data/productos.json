@@ -1,0 +1,220 @@
+[
+    {
+        "id": 1,
+        "nombre": "Imperial de Acero",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial con Guarda de Acero, Base ancha y Bombilla Pico de Loro con pala.",
+        "precio": 28000,
+        "destacado": false,
+        "imagen": "mate-imperialacero.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Imperial de Bronce",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial con Guarda de Bronce. Base ancha y Bombilla Pico de Loro con pala.",
+        "precio": 30000,
+        "destacado": true,
+        "imagen": "mate-imperialbronce.jpg"
+    },    
+    {
+        "id": 3,
+        "nombre": "Imperial de Bronce con Dije Sol Argentino.",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial con Guarda de Acero y Dije del Sol Argentino. Base ancha y Bombilla Pico de Loro con pala.",
+        "precio": 35000,
+        "destacado": true,
+        "imagen": "mate-imperialdije.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Mate de Algarrobo",
+        "categoria": "mates",
+        "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande, ideal para compartir.",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "mate-algarrobo.jpg"
+    },    
+    {
+        "id": 5,
+        "nombre": "Mate Ranchero",
+        "categoria": "mates",
+        "descripcion": "Mate Ranchero Diseño blanco.",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "mate-pintadoblanco.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Imperial Grabado Maradona ",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:Maradona .",
+        "precio": 32000,
+        "destacado": true,
+        "imagen": "mate-maradona.jpg"
+    },    
+    {
+        "id":7 ,
+        "nombre": "Imperial Grabado River ",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:River .",
+        "precio": 32000,
+        "destacado": true,
+        "imagen": "mate-river.jpg"
+    },  
+    {
+        "id":8 ,
+        "nombre": "Imperial Grabado Messi",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:Messi .",
+        "precio": 32000,
+        "destacado": false,
+        "imagen": "mate-messi.jpg"
+    },  
+    {
+        "id":9 ,
+        "nombre": "Imperial Grabado Argentina",
+        "categoria": "mates",
+        "descripcion": "Mate Imperial Guarda de Alpaca, tamaño mediano, Grabado:Argentina .",
+        "precio": 32000,
+        "destacado": false,
+        "imagen": "mate-patagonia.jpg"
+    },  
+    {
+        "id": 10,
+        "nombre": "Combo River Plate",
+        "categoria": "combos",
+        "descripcion": "Mate caminero algarrobo grabado River Plate + bombilla pico curva acero.",
+        "precio": 40000,
+        "destacado": false,
+        "imagen": "combo-river.png"
+    },
+    {
+        "id": 11,
+        "nombre": "Combo Boca Juniors",
+        "categoria": "combos",
+        "descripcion": "Mate caminero algarrobo grabado Boca Juniors + bombilla pico curva acero.",
+        "precio": 40000,
+        "destacado": false,
+        "imagen": "combo-boca.png"
+    },
+    {
+        "id": 13,
+        "nombre": "Termo System 1L",
+        "categoria": "termos",
+        "descripcion": "Varios colores(Negro, Gris, Blanco, Rosa , Lila).",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "termos-colores.jpg"
+    },    
+    {
+        "id": 14,
+        "nombre": "Termo Pico cebador 1L",
+        "categoria": "termos",
+        "descripcion": ".",
+        "precio": 22000,
+        "destacado": true,
+        "imagen": "termo-negro.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Termo Grabado Argentina Pico cebador 1L",
+        "categoria": "termos",
+        "descripcion": "Grabado Argentina.",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "termo-arg2.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Termo Grabado Malvinas Pico cebador 1L",
+        "categoria": "termos",
+        "descripcion": "Grabado Malvinas.",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "termo-arg.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Bombilla Alpaca Pico de Loro",
+        "categoria": "bombillas",
+        "descripcion": "Bombilla de alpaca con filtro pico de loro.",
+        "precio": 7000,
+        "destacado": false,
+        "imagen": "bombilla-picodeloro.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Bombillon de Acero",
+        "categoria": "bombillas",
+        "descripcion": "Bombilla de acero inoxidable.",
+        "precio": 7000,
+        "destacado": true,
+        "imagen": "bombillon-acero.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Bombillon de Bronce",
+        "categoria": "bombillas",
+        "descripcion": "Bombilla de Bronce.",
+        "precio": 15000,
+        "destacado": false,
+        "imagen": "bombillon-bronce.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Bombilla de Alpaca",
+        "categoria": "bombillas",
+        "descripcion": "Bombilla de Alpaca.",
+        "precio": 13500,
+        "destacado": false,
+        "imagen": "bombilla-alpaca.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Latas Azucarera y Yerbera",
+        "categoria": "Latas",
+        "descripcion": "Par de latas de metal para azúcar y yerba.(BLANCO.GRIS,VIOLETA,ROSA,VERDE,NEGRO)",
+        "precio": 7000,
+        "destacado": true,
+        "imagen": "lata-materoblanca.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Canasta AFA ",
+        "categoria": "canastas",
+        "descripcion": " Canasta Matera cuero, Diseño Azul AFA para Set de Mate",
+        "precio":32000 ,
+        "destacado": false,
+        "imagen": "matera-afa.jpg"
+    },
+        {
+        "id": 23,
+        "nombre": "Canasta Cuero  ",
+        "categoria": "canastas",
+        "descripcion": "CanaCanasta Matera cuero para Set de Matesta ",
+        "precio":22000 ,
+        "destacado": false,
+        "imagen": "matera-marron.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Canasta Simple ",
+        "categoria": "canastas",
+        "descripcion": "Canasta Matera cuero para Mate y Termo ",
+        "precio":30000 ,
+        "destacado": false,
+        "imagen": "matera-mitad.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Tote Bag ",
+        "categoria": "totebag",
+        "descripcion": "Totebag negra grande ",
+        "precio": 10000,
+        "destacado": false,
+        "imagen": "totebag.jpg"
+    }
+
+
+]
