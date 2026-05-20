@@ -23,7 +23,7 @@
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Acero y Dije del Sol Argentino. Base ancha e incluye bombilla Pico de Loro con pala.",
         "precio": 35000,
-        "destacado": true,
+        "destacado": false,
         "imagen": "mate-imperialdije.jpg"
     },
     {
@@ -50,7 +50,7 @@
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado del Diego. Tamaño mediano, perfecto para el amante del fútbol, incluye bombilla Pico de Loro con pala.",
         "precio": 32000,
-        "destacado": true,
+        "destacado": false,
         "imagen": "mate-maradona.jpg"
     },
     {
@@ -149,7 +149,7 @@
         "categoria": "bombillas",
         "descripcion": "Bombillón de acero inoxidable de mayor calibre, ideal para yerbas gruesas y mezclas. Resistente a la corrosión.",
         "precio": 7000,
-        "destacado": true,
+        "destacado": false,
         "imagen": "bombillon-acero.jpg"
     },
     {
@@ -211,7 +211,7 @@
         "categoria": "canastas",
         "descripcion": "Canasta matera de cuero para mate y termo. Compacta y fácil de transportar, perfecta para los team amargo. Ideal para llevarla a todos lados.",
         "precio": 30000,
-        "destacado": true,
+        "destacado": flase,
         "imagen": "matera-mitad.jpg"
     },
     {
