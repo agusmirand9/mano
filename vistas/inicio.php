@@ -72,7 +72,9 @@ $categorias = Producto::obtenerCategorias();
             <?php endforeach; ?>
         </div>
 
-
+ <div class="destacados-ver-mas">
+            <a href="index.php?seccion=tienda" class="btn-hero">Ver más</a>
+        </div>
 
     </div>
 
