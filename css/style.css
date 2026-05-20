@@ -740,3 +740,8 @@ footer p {
         color: #37ba5c !important;
     }
 }
+
+.destacados-ver-mas {
+    text-align: center;
+    margin-top: 2rem;
+}
