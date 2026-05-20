@@ -1,7 +1,7 @@
-name: mano
-app_id: da_nVEIoteUVekb
+kind: wasmer.io/App.v0
+name: mano-a-mano
+app_id: da_n73IatAULVV3
 owner: agusmirand9
 package: .
 scaling:
   mode: single_concurrency
-kind: wasmer.io/App.v0

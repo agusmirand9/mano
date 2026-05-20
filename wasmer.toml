@@ -1,10 +1,10 @@
 [package]
 name = "agusmirand9/mano-app"
-version = "0.1.0"
+version = "0.1.2"
 description = "Mano a Mano"
 
 [dependencies]
-"php/php" = "8.3.1"
+"php/php" = "^8.3.1"
 
 [fs]
 "/app" = "."
