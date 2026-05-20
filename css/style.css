@@ -212,13 +212,13 @@ img {
 .banner-imagenes {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    height: 100px;
+    height: 150px;
     overflow: hidden;
 }
 
 .banner-imagenes img {
     width: 100%;
-    height: 100px;
+    height: 150px;
     object-fit: cover;
 }
 
