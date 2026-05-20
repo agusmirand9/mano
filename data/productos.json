@@ -202,7 +202,7 @@
         "categoria": "canastas",
         "descripcion": "Canasta matera de cuero negro para mate y termo. Compacta y fácil de transportar, perfecta para los team amargo. Ideal para llevarla a todos lados.",
         "precio": 30000,
-        "destacado": flase,
+        "destacado": false,
         "imagen": "matera-mitad.jpg"
     }
 ]
