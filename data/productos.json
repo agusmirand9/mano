@@ -188,15 +188,6 @@
         ]
     },
     {
-        "id": 22,
-        "nombre": "Canasta AFA ",
-        "categoria": "canastas",
-        "descripcion": " Canasta matera de cuero con diseño oficial AFA en azul. Ideal para llevar tu set de mate completo con el orgullo de la Selección",
-        "precio": 32000,
-        "destacado": false,
-        "imagen": "matera-afa.jpg"
-    },
-    {
         "id": 23,
         "nombre": "Canasta Cuerina  ",
         "categoria": "canastas",
@@ -209,18 +200,9 @@
         "id": 24,
         "nombre": "Canasta Simple ",
         "categoria": "canastas",
-        "descripcion": "Canasta matera de cuero para mate y termo. Compacta y fácil de transportar, perfecta para los team amargo. Ideal para llevarla a todos lados.",
+        "descripcion": "Canasta matera de cuero negro para mate y termo. Compacta y fácil de transportar, perfecta para los team amargo. Ideal para llevarla a todos lados.",
         "precio": 30000,
         "destacado": flase,
         "imagen": "matera-mitad.jpg"
-    },
-    {
-        "id": 25,
-        "nombre": "Tote Bag ",
-        "categoria": "totebag",
-        "descripcion": "Bolsa tote negra de gran tamaño, ideal para llevar tu set de mate, la yerba, el termo y todo lo que necesitás para el día. Resistente y comoda.",
-        "precio": 10000,
-        "destacado": false,
-        "imagen": "totebag.jpg"
     }
 ]
