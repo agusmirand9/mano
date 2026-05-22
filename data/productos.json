@@ -42,12 +42,7 @@
         "descripcion": "Mate ranchero con diseño pintado en blanco, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
         "precio": 30000,
         "destacado": false,
-        "imagen": [
-            "ranchero-negros.jpg",
-            "ranchero-blancas.jpg",
-            "ranchero-rosas.jpg",
-            "ranchero-animalprint.jpg"
-        ]
+        "imagen": "ranchero-blancas.jpg"
     },
     {
         "id": 6,
@@ -344,5 +339,32 @@
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-roma-basecincelada-cuero repujado-marron.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Mate Ranchero negro",
+        "categoria": "mates",
+        "descripcion": "Mate ranchero con diseño pintado en negro , de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "ranchero-negro.jpg"
+    },
+    {
+        "id": 41,
+        "nombre": "Mate Ranchero rosa",
+        "categoria": "mates",
+        "descripcion": "Mate ranchero con diseño pintado en rosa, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "ranchero-rosa.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Mate Ranchero animalprint",
+        "categoria": "mates",
+        "descripcion": "Mate ranchero con diseño pintado en animalprint , de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
+        "precio": 30000,
+        "destacado": false,
+        "imagen": "ranchero-animalprint.jpg"
     }
 ]

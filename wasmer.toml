@@ -1,6 +1,6 @@
 [package]
 name = "agusmirand9/mano-app"
-version = "0.1.13"
+version = "0.1.14"
 description = "Mano a Mano"
 
 [dependencies]
