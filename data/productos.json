@@ -357,5 +357,24 @@
         "precio": 30000,
         "destacado": false,
         "imagen": "ranchero-animalprint.jpg"
+    },
+    {
+        "id": 43,
+        "nombre": "Torpedo virola de bronce cincelada cuero rupujado Negro ",
+        "categoria": "mates",
+        "descripcion": "negroTORPEDO VIROLA DE BRONCE CINCELADA – CALABAZA – CUERO REPUJADO NEGRO.",
+        "precio": 0,
+        "destacado": false,
+        "imagen": "torpedo-virola-bronce-cuerorepujado-negro.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Torpedo virola de alpaca calada Cuero Repujado Negro ",
+        "categoria": "mates",
+        "descripcion": "TORPEDO VIROLA DE ALPACA CALADA – CALABAZA – CUERO REPUJADO NEGRO.",
+        "precio": 0,
+        "destacado": false,
+        "imagen": "torpedo-virola-aplaca-cuerorepujado-negro.jpg"
     }
+
 ]
