@@ -200,7 +200,7 @@
         "id": 24,
         "nombre": "Box Dia del Padre ",
         "categoria": "combos",
-        "descripcion": "BOX DIA DEL PADRE CON IMPERIAL DE ALPACA GRABADO «EL MEJOR PAPA DEL MUNDO» + CAJA GRABADA + BOMBILLA GRABADA.",
+        "descripcion": "Set de regalo compuesto por mate imperial de alpaca con grabado «El mejor papá del mundo», caja de madera grabada y bombilla grabada. Presentación lista para regalo.",
         "precio": 0,
         "destacado": false,
         "imagen": "box-padre.jpg"
@@ -209,7 +209,7 @@
         "id": 25,
         "nombre": "Imperial Escudo Cuero Repujado Negro",
         "categoria": "mates",
-        "descripcion": "Imperial guarda de alpaca – calabaza – CUERO REPUJADO NEGRO.",
+        "descripcion": "Mate imperial con guarda de alpaca cincelada. Interior de calabaza natural. Exterior revestido en cuero repujado color negro.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-negro-escudo.jpg"
@@ -218,7 +218,7 @@
         "id": 26,
         "nombre": "Torpedo Cuero Repujado Negro ",
         "categoria": "mates",
-        "descripcion": "Torpedo NEGRO cuero repujado virola de alpaca cincelada.",
+        "descripcion": "Mate torpedo de calabaza natural con virola de alpaca cincelada. Exterior revestido en cuero repujado color negro.",
         "precio": 0,
         "destacado": false,
         "imagen": "torpedo-negro-repujado-virola-alpaca-cincelada.jpg"
@@ -227,7 +227,7 @@
         "id": 27,
         "nombre": "Torpedo Virola de alpaca cuero repujado Bordo ",
         "categoria": "mates",
-        "descripcion": "TORPEDO VIROLA DE ALPACA CALADA  CALABAZA CUERO REPUJADO BORRAVINO.",
+        "descripcion": "Mate torpedo de calabaza natural con virola de alpaca calada. Exterior revestido en cuero repujado color Bordo.",
         "precio": 0,
         "destacado": false,
         "imagen": "torpedo-virola-alpaca-cuerorepujado-bordo.jpg"
@@ -236,7 +236,7 @@
         "id": 28,
         "nombre": "Torpedo virola de Bronce cincelada, cuero repujado bordo  ",
         "categoria": "mates",
-        "descripcion": "TORPEDO VIROLA DE BRONCE CINCELADA – CALABAZA – CUERO REPUJADO BORRAVINO.",
+        "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color borravino.",
         "precio": 0,
         "destacado": false,
         "imagen": "torpedo-virolacincelada-bronce–cuerorepujado-bordo.jpg"
@@ -245,7 +245,7 @@
         "id": 29,
         "nombre": "Set de Asado ",
         "categoria": "combos",
-        "descripcion": "SET DE ASADO CERRADO VALIJITA – PLATO CUCHILLO Y TENEDOR.",
+        "descripcion": "Set de asado completo presentado en valijita cerrada. Incluye plato, cuchillo y tenedor. Ideal como regalo o uso personal.",
         "precio": 0,
         "destacado": false,
         "imagen": "set-asado.jpg"
@@ -254,7 +254,7 @@
         "id": 30,
         "nombre": "Porta Mate-Termo ",
         "categoria": "canastas",
-        "descripcion": "Portamate-portatermo de cuerina color negro.",
+        "descripcion": "Porta mate y porta termo fabricado en cuerina color negro. Diseño compacto para transporte y almacenamiento conjunto.",
         "precio": 0,
         "destacado": false,
         "imagen": "portamate-termo-cuerina-negro.jpg"
@@ -263,7 +263,7 @@
         "id": 31,
         "nombre": "Media Canasta 3 colores ",
         "categoria": "canastas",
-        "descripcion": "MEDIA CANASTA – COLOR COMBINADO CUERO ONDULADO.",
+        "descripcion": "Media canasta en cuero ondulado combinado en tres colores. Confección artesanal apta para mate, termo y accesorios.",
         "precio": 0,
         "destacado": false,
         "imagen": "mediacanasta-3colores-ondulado.jpg"
@@ -272,7 +272,7 @@
         "id": 32,
         "nombre": "Mesa Valija 2 en 1 ",
         "categoria": "combos",
-        "descripcion": "Mesa 2 en 1 valija + mesa matera de madera plegable.",
+        "descripcion": "Mesa matera plegable de madera con diseño 2 en 1: funciona como mesa de apoyo y como valijita de transporte.",
         "precio": 0,
         "destacado": false,
         "imagen": "mesa2en1.jpg"
@@ -281,7 +281,7 @@
         "id": 33,
         "nombre": "Imperial algarrobo Guarda y Base de Alpaca ",
         "categoria": "mates",
-        "descripcion": "imperial ALGARROBO PREMIUM guarda de ALPACA con BASE DE ALPACA.",
+        "descripcion": "Mate imperial premium de madera de algarrobo con guarda de alpaca y base completa de alpaca. Terminación de alta calidad.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-algarrobo-guardaybase-alpaca.jpg"
@@ -290,7 +290,7 @@
         "id": 34,
         "nombre": "Imperial algarroba guarda de alpaca con Sol Argetino ",
         "categoria": "mates",
-        "descripcion": "IMPERIAL ALGARROBO GUARDA DE ALPACA PREMIUM – CON DIJE DE SOL EN MADERA.",
+        "descripcion": "Mate imperial de madera de algarrobo con guarda de alpaca premium. Incluye dije de sol argentino tallado en madera como detalle decorativo.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-algarrobo-dijesol.jpg"
@@ -299,7 +299,7 @@
         "id": 35,
         "nombre": "Canasta cuerina croco negro ",
         "categoria": "canastas",
-        "descripcion": "Canasta de cuerina color negro CUERO CROCO doble costura premium.",
+        "descripcion": "Canasta matera en cuerina textura cocodrilo color negro. Doble costura.",
         "precio": 0,
         "destacado": false,
         "imagen": "matera-croconegro.jpg"
@@ -308,7 +308,7 @@
         "id": 36,
         "nombre": "Imperial de alpaca cuero repujado Bordo ",
         "categoria": "mates",
-        "descripcion": "Imperial de alpaca CUERO REPUJADO marron. Int. calabaza.",
+        "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color marrón.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-marron.jpg"
@@ -317,7 +317,7 @@
         "id": 37,
         "nombre": "Imperial de alpaca cuero repujado Negro ",
         "categoria": "mates",
-        "descripcion": "Imperial guarda de alpaca – calabaza – CUERO REPUJADO negroNEGRO.",
+        "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color negro.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-negro.jpg"
@@ -326,7 +326,7 @@
         "id": 39,
         "nombre": "Imperial Roma Base y Guarda Cincelada de alpaca cuero repujado Bordo  ",
         "categoria": "mates",
-        "descripcion": "Imperial roma full alpaca base completa cincelada cuero repujado color marron. int calabaza.",
+        "descripcion": "Mate imperial estilo Roma con base completa de alpaca cincelada y guarda de alpaca cincelada. Interior de calabaza natural. Exterior en cuero repujado color marrón. Terminación full alpaca.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-roma-basecincelada-cuero repujado-marron.jpg"
@@ -335,7 +335,7 @@
         "id": 40,
         "nombre": "Mate Ranchero negro",
         "categoria": "mates",
-        "descripcion": "Mate ranchero con diseño pintado en negro , de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
+        "descripcion": "Mate ranchero de estilo rústico con acabado pintado en negro. Incluye bombilla pico de loro con pala. ",
         "precio": 30000,
         "destacado": false,
         "imagen": "ranchero-negros.jpg"
@@ -344,7 +344,7 @@
         "id": 41,
         "nombre": "Mate Ranchero rosa",
         "categoria": "mates",
-        "descripcion": "Mate ranchero con diseño pintado en rosa, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
+        "descripcion": "Mate ranchero de estilo rústico con acabado pintado en rosa. Incluye bombilla pico de loro con pala. ",
         "precio": 30000,
         "destacado": false,
         "imagen": "ranchero-rosas.jpg"
@@ -353,7 +353,7 @@
         "id": 42,
         "nombre": "Mate Ranchero animalprint",
         "categoria": "mates",
-        "descripcion": "Mate ranchero con diseño pintado en animalprint , de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
+        "descripcion": "Mate ranchero de estilo rústico con acabado pintado en diseño animalprint. Incluye bombilla pico de loro con pala. ",
         "precio": 30000,
         "destacado": false,
         "imagen": "ranchero-animalprint.jpg"
@@ -362,7 +362,7 @@
         "id": 43,
         "nombre": "Torpedo virola de bronce cincelada cuero rupujado Negro ",
         "categoria": "mates",
-        "descripcion": "negroTORPEDO VIROLA DE BRONCE CINCELADA – CALABAZA – CUERO REPUJADO NEGRO.",
+        "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color negro.",
         "precio": 0,
         "destacado": false,
         "imagen": "torpedo-virola-bronce-cuerorepujado-negro.jpg"
@@ -371,7 +371,7 @@
         "id": 44,
         "nombre": "Torpedo virola de alpaca calada Cuero Repujado Negro ",
         "categoria": "mates",
-        "descripcion": "TORPEDO VIROLA DE ALPACA CALADA – CALABAZA – CUERO REPUJADO NEGRO.",
+        "descripcion": "Mate torpedo de calabaza natural con virola de alpaca calada. Exterior revestido en cuero repujado color negro.",
         "precio": 0,
         "destacado": false,
         "imagen": "torpedo-virola-aplaca-cuerorepujado-negro.jpg"
