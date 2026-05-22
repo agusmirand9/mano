@@ -217,7 +217,7 @@
     {
         "id": 26,
         "nombre": "Torpedo Cuero Repujado Negro ",
-        "categoria": " ",
+        "categoria": "mates ",
         "descripcion": "Torpedo NEGRO cuero repujado virola de alpaca cincelada.",
         "precio": 0,
         "destacado": false,
@@ -298,7 +298,7 @@
     {
         "id": 35,
         "nombre": "Canasta cuerina croco negro ",
-        "categoria": "canasta ",
+        "categoria": "canastas",
         "descripcion": "Canasta de cuerina color negro CUERO CROCO doble costura premium.",
         "precio": 0,
         "destacado": false,
