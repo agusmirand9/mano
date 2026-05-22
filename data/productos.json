@@ -4,7 +4,7 @@
         "nombre": "Imperial de Acero",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Acero inoxidable y Base ancha. Incluye Bombilla Pico de Loro con pala. Resistente y duradero para el dia a dia",
-        "precio": 28000,
+        "precio": 0,
         "destacado": false,
         "imagen": "mate-imperialacero.jpg"
     },
@@ -13,7 +13,7 @@
         "nombre": "Imperial de Bronce",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Bronce. Base ancha para mayor estabilidad e incluye bombilla Pico de Loro con pala.",
-        "precio": 30000,
+        "precio": 0,
         "destacado": true,
         "imagen": "mate-imperialbronce.jpg"
     },
@@ -22,7 +22,7 @@
         "nombre": "Imperial de Bronce con Dije Sol Argentino.",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Acero y Dije del Sol Argentino. Base ancha e incluye bombilla Pico de Loro con pala.",
-        "precio": 35000,
+        "precio": 0,
         "destacado": false,
         "imagen": "mate-imperialdije.jpg"
     },
@@ -31,7 +31,7 @@
         "nombre": "Mate de Algarrobo",
         "categoria": "mates",
         "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande e incluye bombilla Pico de Loro con pala. Ideal para cualquier horario del dia",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "mate-algarrobo.jpg"
     },
@@ -40,7 +40,7 @@
         "nombre": "Mate Ranchero",
         "categoria": "mates",
         "descripcion": "Mate ranchero con diseño pintado en blanco, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "ranchero-blancas.jpg"
     },
@@ -49,7 +49,7 @@
         "nombre": "Imperial Grabado Maradona ",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado del Diego. Tamaño mediano, perfecto para el amante del fútbol, incluye bombilla Pico de Loro con pala.",
-        "precio": 32000,
+        "precio": 0,
         "destacado": false,
         "imagen": "mate-maradona.jpg"
     },
@@ -58,7 +58,7 @@
         "nombre": "Imperial Grabado River ",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de River Plate. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
-        "precio": 32000,
+        "precio": 0,
         "destacado": true,
         "imagen": "mate-river.jpg"
     },
@@ -67,7 +67,7 @@
         "nombre": "Imperial Grabado Messi",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de Messi. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
-        "precio": 32000,
+        "precio": 0,
         "destacado": false,
         "imagen": "mate-messi.jpg"
     },
@@ -76,7 +76,7 @@
         "nombre": "Imperial Grabado Argentina",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de Identidad Argentina. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
-        "precio": 32000,
+        "precio": 0,
         "destacado": false,
         "imagen": "mate-patagonia.jpg"
     },
@@ -85,7 +85,7 @@
         "nombre": "Combo River Plate",
         "categoria": "combos",
         "descripcion": "Combo completo para el hincha millonario: mate caminero de algarrobo con grabado de River Plate, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Todo lo que necesitás para matear con los colores del más grande.",
-        "precio": 40000,
+        "precio": 0,
         "destacado": false,
         "imagen": "combo-river.jpg"
     },
@@ -94,7 +94,7 @@
         "nombre": "Combo Boca Juniors",
         "categoria": "combos",
         "descripcion": "Combo completo para el hincha xeneize: mate caminero de algarrobo con grabado de Boca Juniors, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Mateá con la pasión de la Bombonera.",
-        "precio": 40000,
+        "precio": 0,
         "destacado": false,
         "imagen": "combo-boca.jpg"
     },
@@ -103,7 +103,7 @@
         "nombre": "Termo System 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con excelente conservación del calor, disponible en cinco colores: negro, gris, blanco, rosa y lila. Práctico, duradero y con el tamaño ideal.",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "termos-colores.jpg"
     },
@@ -112,7 +112,7 @@
         "nombre": "Termo Pico cebador 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con pico cebador. Ideal para matear sin perder temperatura. Diseño sobrio y funcional para el día a día.",
-        "precio": 22000,
+        "precio": 0,
         "destacado": true,
         "imagen": "termo-negro.jpg"
     },
@@ -121,7 +121,7 @@
         "nombre": "Termo Grabado Argentina Pico cebador 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con pico cebador y grabado de Argentina.",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "termo-arg2.jpg"
     },
@@ -130,7 +130,7 @@
         "nombre": "Termo Grabado Malvinas Pico cebador 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con pico cebador y grabado Malvinas Argentinas.",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "termo-arg.jpg"
     },
@@ -139,7 +139,7 @@
         "nombre": "Bombilla Alpaca Pico de Loro",
         "categoria": "bombillas",
         "descripcion": "Bombilla de alpaca con filtro pico de loro, ideal para yerbas finas y cortadas. Resistente y de fácil limpieza..",
-        "precio": 7000,
+        "precio": 0,
         "destacado": false,
         "imagen": "bombilla-picodeloro.jpg"
     },
@@ -148,7 +148,7 @@
         "nombre": "Bombillon de Acero",
         "categoria": "bombillas",
         "descripcion": "Bombillón de acero inoxidable de mayor calibre, ideal para yerbas gruesas y mezclas. Resistente a la corrosión.",
-        "precio": 7000,
+        "precio": 0,
         "destacado": false,
         "imagen": "bombillon-acero.jpg"
     },
@@ -157,7 +157,7 @@
         "nombre": "Bombillon de Bronce",
         "categoria": "bombillas",
         "descripcion": "Bombillón de bronce con acabado cálido y elegante. Excelente filtrado y resistencia..",
-        "precio": 15000,
+        "precio": 0,
         "destacado": false,
         "imagen": "bombillon-bronce.jpg"
     },
@@ -166,7 +166,7 @@
         "nombre": "Bombilla de Alpaca",
         "categoria": "bombillas",
         "descripcion": "Bombilla de alpaca de diseño clásico y acabado plateado. Liviana, resistente y de fácil mantenimiento.",
-        "precio": 13500,
+        "precio": 0,
         "destacado": false,
         "imagen": "bombilla-alpaca.jpg"
     },
@@ -175,7 +175,7 @@
         "nombre": "Latas Azucarera y Yerbera",
         "categoria": "Latas",
         "descripcion": "Par de latas de metal para azúcar y yerba, perfectas para mantener el orden en tu set de mate. Disponibles en seis colores: blanco, gris, violeta, rosa, verde y negro.",
-        "precio": 7000,
+        "precio": 0,
         "destacado": true,
         "imagen": "lata-materoblanca.jpg",
         "imagenes": [
@@ -192,7 +192,7 @@
         "nombre": "Canasta Cuerina  ",
         "categoria": "canastas",
         "descripcion": "Canasta matera de cuerina para tu set de mate completo. Diseño clásico con el espacio justo para llevar todo lo que necesitás a donde vayas ",
-        "precio": 22000,
+        "precio": 0,
         "destacado": false,
         "imagen": "matera-marron.jpg"
     },
@@ -336,7 +336,7 @@
         "nombre": "Mate Ranchero negro",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en negro. Incluye bombilla pico de loro con pala. ",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "ranchero-negros.jpg"
     },
@@ -345,7 +345,7 @@
         "nombre": "Mate Ranchero rosa",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en rosa. Incluye bombilla pico de loro con pala. ",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "ranchero-rosas.jpg"
     },
@@ -354,7 +354,7 @@
         "nombre": "Mate Ranchero animalprint",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en diseño animalprint. Incluye bombilla pico de loro con pala. ",
-        "precio": 30000,
+        "precio": 0,
         "destacado": false,
         "imagen": "ranchero-animalprint.jpg"
     },
