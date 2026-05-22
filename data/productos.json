@@ -323,15 +323,6 @@
         "imagen": "imperial-cuerorepujado-negro.jpg"
     },
     {
-        "id": 38,
-        "nombre": "Imperial de alpaca cuero croco negro ",
-        "categoria": "mates",
-        "descripcion": "Imperial guarda de alpaca – calabaza – CUERO REPUJADO NEGRO.",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "imperial-cuerorepujado-negro.jpg"
-    },
-    {
         "id": 39,
         "nombre": "Imperial Roma Base y Guarda Cincelada de alpaca cuero repujado Bordo  ",
         "categoria": "mates",
@@ -347,7 +338,7 @@
         "descripcion": "Mate ranchero con diseño pintado en negro , de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
         "precio": 30000,
         "destacado": false,
-        "imagen": "ranchero-negro.jpg"
+        "imagen": "ranchero-negros.jpg"
     },
     {
         "id": 41,
@@ -356,7 +347,7 @@
         "descripcion": "Mate ranchero con diseño pintado en rosa, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
         "precio": 30000,
         "destacado": false,
-        "imagen": "ranchero-rosa.jpg"
+        "imagen": "ranchero-rosas.jpg"
     },
     {
         "id": 42,
