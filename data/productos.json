@@ -4,7 +4,7 @@
         "nombre": "Imperial de Acero",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Acero inoxidable y Base ancha. Incluye Bombilla Pico de Loro con pala. Resistente y duradero para el dia a dia",
-        "precio": 0,
+        "precio": 32.500,
         "destacado": false,
         "imagen": "mate-imperialacero.jpg"
     },
@@ -13,7 +13,7 @@
         "nombre": "Imperial de Bronce",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Bronce. Base ancha para mayor estabilidad e incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 35.500,
         "destacado": true,
         "imagen": "mate-imperialbronce.jpg"
     },
@@ -22,7 +22,7 @@
         "nombre": "Imperial de Bronce con Dije Sol Argentino.",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Acero y Dije del Sol Argentino. Base ancha e incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 55.500,
         "destacado": false,
         "imagen": "mate-imperialdije.jpg"
     },
@@ -31,7 +31,7 @@
         "nombre": "Imperial cuero croco negro",
         "categoria": "mates",
         "descripcion": "Mate Imperial con Guarda de Alpaca y cuero textura croco. Base ancha e incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 49.500,
         "destacado": false,
         "imagen": "imperial-cueronegro-croco.jpg"
     },    
@@ -40,7 +40,7 @@
         "nombre": "Imperial de alpaca cuero repujado Bordo ",
         "categoria": "mates",
         "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color marrón.",
-        "precio": 0,
+        "precio":49.500 ,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-marron.jpg"
     },
@@ -49,7 +49,7 @@
         "nombre": "Imperial de alpaca cuero repujado Negro ",
         "categoria": "mates",
         "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color negro.",
-        "precio": 0,
+        "precio": 49.500,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-negro.jpg"
     },
@@ -58,7 +58,7 @@
         "nombre": "Mate de Algarrobo",
         "categoria": "mates",
         "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande e incluye bombilla Pico de Loro con pala. Ideal para cualquier horario del dia",
-        "precio": 0,
+        "precio": 25.500,
         "destacado": false,
         "imagen": "mate-algarrobo.jpg"
     },    
@@ -67,7 +67,7 @@
         "nombre": "Imperial algarrobo Guarda y Base de Alpaca ",
         "categoria": "mates",
         "descripcion": "Mate imperial premium de madera de algarrobo con guarda de alpaca y base completa de alpaca. Terminación de alta calidad.",
-        "precio": 0,
+        "precio": 40.500,
         "destacado": false,
         "imagen": "imperial-algarrobo-guardaybase-alpaca.jpg"
     },
@@ -76,7 +76,7 @@
         "nombre": "Imperial algarroba guarda de alpaca con Sol Argetino ",
         "categoria": "mates",
         "descripcion": "Mate imperial de madera de algarrobo con guarda de alpaca premium. Incluye dije de sol argentino tallado en madera como detalle decorativo.",
-        "precio": 0,
+        "precio": 41.500,
         "destacado": false,
         "imagen": "imperial-algarrobo-dijesol.jpg"
     },
@@ -85,7 +85,7 @@
         "nombre": "Camionero Grabado",
         "categoria": "mates",
         "descripcion": "Mate camionero Grabado 'Que tus mates sean eternos'.Incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 29.500,
         "destacado": false,
         "imagen": "camionero-grabado.jpg"
     },
@@ -94,7 +94,7 @@
         "nombre": "Imperial Grabado Maradona ",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado del Diego. Tamaño mediano, perfecto para el amante del fútbol, incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 41.500,
         "destacado": false,
         "imagen": "mate-maradona.jpg"
     },
@@ -103,7 +103,7 @@
         "nombre": "Imperial Grabado River ",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de River Plate. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 41.500,
         "destacado": true,
         "imagen": "mate-river.jpg"
     },
@@ -112,7 +112,7 @@
         "nombre": "Imperial Grabado Messi",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de Messi. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 41.500,
         "destacado": false,
         "imagen": "mate-messi.jpg"
     },
@@ -121,7 +121,7 @@
         "nombre": "Imperial Grabado Argentina",
         "categoria": "mates",
         "descripcion": "Mate Imperial con guarda de alpaca y grabado de Identidad Argentina. Tamaño mediano, incluye bombilla Pico de Loro con pala.",
-        "precio": 0,
+        "precio": 49.500,
         "destacado": false,
         "imagen": "mate-patagonia.jpg"
     },
@@ -130,7 +130,7 @@
         "nombre": "Combo River Plate",
         "categoria": "combos",
         "descripcion": "Combo completo para el hincha millonario: mate caminero de algarrobo con grabado de River Plate, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Todo lo que necesitás para matear con los colores del más grande.",
-        "precio": 0,
+        "precio": 62.500,
         "destacado": false,
         "imagen": "combo-river.jpg"
     },
@@ -139,7 +139,7 @@
         "nombre": "Combo Boca Juniors",
         "categoria": "combos",
         "descripcion": "Combo completo para el hincha xeneize: mate caminero de algarrobo con grabado de Boca Juniors, bombilla pico curvo de acero inoxidable y Termo Pico Cebador 1L negro mate. Mateá con la pasión de la Bombonera.",
-        "precio": 0,
+        "precio": 62.500,
         "destacado": false,
         "imagen": "combo-boca.jpg"
     },
@@ -148,39 +148,48 @@
         "nombre": "Termo System 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con excelente conservación del calor, disponible en cinco colores: negro, gris, blanco, rosa y lila. Práctico, duradero y con el tamaño ideal.",
-        "precio": 0,
+        "precio": 36.500,
         "destacado": false,
         "imagen": "termos-colores.jpg"
     },
     {
         "id": 18,
-        "nombre": "Termo Pico cebador 1L",
+        "nombre": "Termo Pico cebador 1L Negro Mate",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con pico cebador. Ideal para matear sin perder temperatura. Diseño sobrio y funcional para el día a día.",
-        "precio": 0,
+        "precio": 30.500,
         "destacado": true,
         "imagen": "termo-negro.jpg"
     },
     {
         "id": 19,
+        "nombre": "Termo Pico cebador 1L Plateado",
+        "categoria": "termos",
+        "descripcion": "Termo de 1 litro con pico cebador. Ideal para matear sin perder temperatura. Diseño sobrio y funcional para el día a día.",
+        "precio": 24.500,
+        "destacado": true,
+        "imagen": "termo-metal.jpg"
+    },
+    {
+        "id": 20,
         "nombre": "Termo Grabado Argentina Pico cebador 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con pico cebador y grabado de Argentina.",
-        "precio": 0,
+        "precio": 36.500,
         "destacado": false,
         "imagen": "termo-arg2.jpg"
     },
     {
-        "id": 20,
+        "id": 21,
         "nombre": "Termo Grabado Malvinas Pico cebador 1L",
         "categoria": "termos",
         "descripcion": "Termo de 1 litro con pico cebador y grabado Malvinas Argentinas.",
-        "precio": 0,
+        "precio": 30.500,
         "destacado": false,
         "imagen": "termo-arg.jpg"
     },
     {
-        "id": 21,
+        "id": 22,
         "nombre": "Bombilla Alpaca Pico de Loro",
         "categoria": "bombillas",
         "descripcion": "Bombilla de alpaca con filtro pico de loro, ideal para yerbas finas y cortadas. Resistente y de fácil limpieza..",
@@ -189,7 +198,7 @@
         "imagen": "bombilla-picodeloro.jpg"
     },
     {
-        "id": 22,
+        "id": 23,
         "nombre": "Bombillon de Acero",
         "categoria": "bombillas",
         "descripcion": "Bombillón de acero inoxidable de mayor calibre, ideal para yerbas gruesas y mezclas. Resistente a la corrosión.",
@@ -198,7 +207,7 @@
         "imagen": "bombillon-acero.jpg"
     },
     {
-        "id": 23,
+        "id": 24,
         "nombre": "Bombillon de Bronce",
         "categoria": "bombillas",
         "descripcion": "Bombillón de bronce con acabado cálido y elegante. Excelente filtrado y resistencia..",
@@ -207,7 +216,7 @@
         "imagen": "bombillon-bronce.jpg"
     },
     {
-        "id": 24,
+        "id": 25,
         "nombre": "Bombilla de Alpaca",
         "categoria": "bombillas",
         "descripcion": "Bombilla de alpaca de diseño clásico y acabado plateado. Liviana, resistente y de fácil mantenimiento.",
@@ -216,11 +225,11 @@
         "imagen": "bombilla-alpaca.jpg"
     },
     {
-        "id": 25,
+        "id": 26,
         "nombre": "Latas Azucarera y Yerbera",
         "categoria": "Latas",
         "descripcion": "Par de latas de metal para azúcar y yerba, perfectas para mantener el orden en tu set de mate. Disponibles en seis colores: blanco, gris, violeta, rosa, verde y negro.",
-        "precio": 0,
+        "precio": 10.500,
         "destacado": true,
         "imagen": "lata-materoblanca.jpg",
         "imagenes": [
@@ -233,20 +242,11 @@
         ]
     },
     {
-        "id": 26,
-        "nombre": "Canasta Cuerina  ",
-        "categoria": "canastas",
-        "descripcion": "Canasta matera de cuerina para tu set de mate completo. Diseño clásico con el espacio justo para llevar todo lo que necesitás a donde vayas ",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "matera-marron.jpg"
-    },
-    {
         "id": 27,
         "nombre": "Box Dia del Padre ",
         "categoria": "combos",
         "descripcion": "Set de regalo compuesto por mate imperial de alpaca con grabado «El mejor papá del mundo», caja de madera grabada y bombilla grabada. Presentación lista para regalo.",
-        "precio": 0,
+        "precio": 50.500,
         "destacado": false,
         "imagen": "box-padre.jpg"
     },    
@@ -255,7 +255,7 @@
         "nombre": "Imperial Roma Base y Guarda Cincelada de alpaca cuero repujado Bordo  ",
         "categoria": "mates",
         "descripcion": "Mate imperial estilo Roma con base completa de alpaca cincelada y guarda de alpaca cincelada. Interior de calabaza natural. Exterior en cuero repujado color marrón. Terminación full alpaca.",
-        "precio": 0,
+        "precio": 57.500,
         "destacado": false,
         "imagen": "imperial-roma-basecincelada-cuero repujado-marron.jpg"
     },
@@ -264,7 +264,7 @@
         "nombre": "Imperial Escudo Cuero Repujado Negro",
         "categoria": "mates",
         "descripcion": "Mate imperial con guarda de alpaca cincelada. Interior de calabaza natural. Exterior revestido en cuero repujado color negro.",
-        "precio": 0,
+        "precio": 47.500,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-negro-escudo.png"
     },
@@ -273,7 +273,7 @@
         "nombre": "Torpedo virola de Bronce cincelada, cuero repujado bordo  ",
         "categoria": "mates",
         "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color borravino.",
-        "precio": 0,
+        "precio": 50.500,
         "destacado": false,
         "imagen": "torpedo-virolacincelada-bronce–cuerorepujado-bordo.jpg"
     }, 
@@ -282,7 +282,7 @@
         "nombre": "Torpedo virola de bronce cincelada cuero rupujado Negro ",
         "categoria": "mates",
         "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color negro.",
-        "precio": 0,
+        "precio": 53.500,
         "destacado": false,
         "imagen": "torpedo-virola-bronce-cuerorepujado-negro.jpg"
     },
@@ -291,7 +291,7 @@
         "nombre": "Set de Asado ",
         "categoria": "combos",
         "descripcion": "Set de asado completo presentado en valijita cerrada. Incluye plato, cuchillo y tenedor. Ideal como regalo o uso personal.",
-        "precio": 0,
+        "precio": 18.500,
         "destacado": false,
         "imagen": "set-asado.jpg"
     },
@@ -300,7 +300,7 @@
         "nombre": "Porta Mate-Termo ",
         "categoria": "canastas",
         "descripcion": "Porta mate y porta termo fabricado en cuerina color negro. Diseño compacto para transporte y almacenamiento conjunto.",
-        "precio": 0,
+        "precio": 15.500,
         "destacado": false,
         "imagen": "portamate-termo-cuerina-negro.jpg"
     },
@@ -309,7 +309,7 @@
         "nombre": "Media Canasta 3 colores ",
         "categoria": "canastas",
         "descripcion": "Media canasta en cuero ondulado combinado en tres colores. Confección artesanal apta para mate, termo y accesorios.",
-        "precio": 0,
+        "precio": 36.500,
         "destacado": false,
         "imagen": "mediacanasta-3colores-ondulado.jpg"
     },
@@ -318,7 +318,7 @@
         "nombre": "Mesa Valija 2 en 1 ",
         "categoria": "combos",
         "descripcion": "Mesa matera plegable de madera con diseño 2 en 1: funciona como mesa de apoyo y como valijita de transporte.",
-        "precio": 0,
+        "precio": 40.500,
         "destacado": false,
         "imagen": "mesa2en1.jpg"
     },
@@ -327,7 +327,7 @@
         "nombre": "Canasta cuerina croco negro ",
         "categoria": "canastas",
         "descripcion": "Canasta matera en cuerina textura cocodrilo color negro. Doble costura.",
-        "precio": 0,
+        "precio": 19.500,
         "destacado": false,
         "imagen": "matera-croconegro.jpg"
     },
@@ -336,7 +336,7 @@
         "nombre": "Mate Ranchero",
         "categoria": "mates",
         "descripcion": "Mate ranchero con diseño pintado en blanco, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
-        "precio": 0,
+        "precio": 41.500,
         "destacado": false,
         "imagen": "ranchero-blancas.jpg"
     },
@@ -345,7 +345,7 @@
         "nombre": "Mate Ranchero negro",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en negro. Incluye bombilla pico de loro con pala. ",
-        "precio": 0,
+        "precio": 41.500,
         "destacado": false,
         "imagen": "ranchero-negros.jpg"
     },
@@ -354,7 +354,7 @@
         "nombre": "Mate Ranchero rosa",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en rosa. Incluye bombilla pico de loro con pala. ",
-        "precio": 0,
+        "precio":40.500,
         "destacado": false,
         "imagen": "ranchero-rosas.jpg"
     },
@@ -363,7 +363,7 @@
         "nombre": "Mate Ranchero animalprint",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en diseño animalprint. Incluye bombilla pico de loro con pala. ",
-        "precio": 0,
+        "precio": 42.500,
         "destacado": false,
         "imagen": "ranchero-animalprint.jpg"
     }
