@@ -198,7 +198,7 @@
         "imagen": "bombilla-picodeloro.jpg"
     },
     {
-        "id": 26,
+        "id": 23,
         "nombre": "Latas Azucarera y Yerbera",
         "categoria": "Latas",
         "descripcion": "Par de latas de metal para azúcar y yerba, perfectas para mantener el orden en tu set de mate. Disponibles en seis colores: blanco, gris, violeta, rosa, verde y negro.",
@@ -215,7 +215,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": 24,
         "nombre": "Box Dia del Padre ",
         "categoria": "combos",
         "descripcion": "Set de regalo compuesto por mate imperial de alpaca con grabado «El mejor papá del mundo», caja de madera grabada y bombilla grabada. Presentación lista para regalo.",
@@ -224,7 +224,7 @@
         "imagen": "box-padre.jpg"
     },    
     {
-        "id": 28,
+        "id": 25,
         "nombre": "Imperial Roma Base y Guarda Cincelada de alpaca cuero repujado Bordo  ",
         "categoria": "mates",
         "descripcion": "Mate imperial estilo Roma con base completa de alpaca cincelada y guarda de alpaca cincelada. Interior de calabaza natural. Exterior en cuero repujado color marrón. Terminación full alpaca.",
@@ -233,7 +233,7 @@
         "imagen": "imperial-roma-basecincelada-cuero repujado-marron.jpg"
     },
     {
-        "id": 29,
+        "id": 26,
         "nombre": "Imperial Escudo Cuero Repujado Negro",
         "categoria": "mates",
         "descripcion": "Mate imperial con guarda de alpaca cincelada. Interior de calabaza natural. Exterior revestido en cuero repujado color negro.",
@@ -242,7 +242,7 @@
         "imagen": "imperial-cuerorepujado-negro-escudo.png"
     },
     {
-        "id": 30,
+        "id": 27,
         "nombre": "Torpedo virola de Bronce cincelada, cuero repujado bordo  ",
         "categoria": "mates",
         "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color borravino.",
@@ -251,7 +251,7 @@
         "imagen": "torpedo-virolacincelada-bronce–cuerorepujado-bordo.jpg"
     }, 
     {
-        "id": 31,
+        "id": 28,
         "nombre": "Torpedo virola de bronce cincelada cuero rupujado Negro ",
         "categoria": "mates",
         "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color negro.",
@@ -260,7 +260,7 @@
         "imagen": "torpedo-virola-bronce-cuerorepujado-negro.jpg"
     },
     {
-        "id": 32,
+        "id": 29,
         "nombre": "Set de Asado ",
         "categoria": "combos",
         "descripcion": "Set de asado completo presentado en valijita cerrada. Incluye plato, cuchillo y tenedor. Ideal como regalo o uso personal.",
@@ -269,7 +269,7 @@
         "imagen": "set-asado.jpg"
     },
     {
-        "id": 33,
+        "id": 30,
         "nombre": "Porta Mate-Termo ",
         "categoria": "canastas",
         "descripcion": "Porta mate y porta termo fabricado en cuerina color negro. Diseño compacto para transporte y almacenamiento conjunto.",
@@ -278,7 +278,7 @@
         "imagen": "portamate-termo-cuerina-negro.jpg"
     },
     {
-        "id": 34,
+        "id": 31,
         "nombre": "Media Canasta 3 colores ",
         "categoria": "canastas",
         "descripcion": "Media canasta en cuero ondulado combinado en tres colores. Confección artesanal apta para mate, termo y accesorios.",
@@ -287,7 +287,7 @@
         "imagen": "mediacanasta-3colores-ondulado.jpg"
     },
     {
-        "id": 35,
+        "id": 32,
         "nombre": "Mesa Valija 2 en 1 ",
         "categoria": "combos",
         "descripcion": "Mesa matera plegable de madera con diseño 2 en 1: funciona como mesa de apoyo y como valijita de transporte.",
@@ -296,7 +296,7 @@
         "imagen": "mesa2en1.jpg"
     },
     {
-        "id": 36,
+        "id": 33,
         "nombre": "Canasta cuerina croco negro ",
         "categoria": "canastas",
         "descripcion": "Canasta matera en cuerina textura cocodrilo color negro. Doble costura.",
@@ -305,7 +305,7 @@
         "imagen": "matera-croconegro.jpg"
     },
     {
-        "id": 37,
+        "id": 34,
         "nombre": "Mate Ranchero",
         "categoria": "mates",
         "descripcion": "Mate ranchero con diseño pintado en blanco, de estilo rústico y auténtico e incluye bombilla Pico de Loro con pala. ",
@@ -314,7 +314,7 @@
         "imagen": "ranchero-blancas.jpg"
     },
     {
-        "id": 38,
+        "id": 35,
         "nombre": "Mate Ranchero negro",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en negro. Incluye bombilla pico de loro con pala. ",
@@ -323,7 +323,7 @@
         "imagen": "ranchero-negros.jpg"
     },
     {
-        "id": 39,
+        "id": 36,
         "nombre": "Mate Ranchero rosa",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en rosa. Incluye bombilla pico de loro con pala. ",
@@ -332,7 +332,7 @@
         "imagen": "ranchero-rosas.jpg"
     },
     {
-        "id": 40,
+        "id": 37,
         "nombre": "Mate Ranchero animalprint",
         "categoria": "mates",
         "descripcion": "Mate ranchero de estilo rústico con acabado pintado en diseño animalprint. Incluye bombilla pico de loro con pala. ",
