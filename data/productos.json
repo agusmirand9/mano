@@ -34,36 +34,9 @@
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-cueronegro-croco.jpg"
-    },
-    {
-        "id": 5,
-        "nombre": "Mate de Algarrobo",
-        "categoria": "mates",
-        "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande e incluye bombilla Pico de Loro con pala. Ideal para cualquier horario del dia",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "mate-algarrobo.jpg"
     },    
     {
-        "id": 6,
-        "nombre": "Imperial algarrobo Guarda y Base de Alpaca ",
-        "categoria": "mates",
-        "descripcion": "Mate imperial premium de madera de algarrobo con guarda de alpaca y base completa de alpaca. Terminación de alta calidad.",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "imperial-algarrobo-guardaybase-alpaca.jpg"
-    },
-    {
-        "id": 7,
-        "nombre": "Imperial algarroba guarda de alpaca con Sol Argetino ",
-        "categoria": "mates",
-        "descripcion": "Mate imperial de madera de algarrobo con guarda de alpaca premium. Incluye dije de sol argentino tallado en madera como detalle decorativo.",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "imperial-algarrobo-dijesol.jpg"
-    },
-    {
-        "id": 8,
+        "id": 5,
         "nombre": "Imperial de alpaca cuero repujado Bordo ",
         "categoria": "mates",
         "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color marrón.",
@@ -72,13 +45,40 @@
         "imagen": "imperial-cuerorepujado-marron.jpg"
     },
     {
-        "id": 9,
+        "id": 6,
         "nombre": "Imperial de alpaca cuero repujado Negro ",
         "categoria": "mates",
         "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color negro.",
         "precio": 0,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-negro.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Mate de Algarrobo",
+        "categoria": "mates",
+        "descripcion": "Mate de algarrobo con guarda de Alpaca. De tamaño grande e incluye bombilla Pico de Loro con pala. Ideal para cualquier horario del dia",
+        "precio": 0,
+        "destacado": false,
+        "imagen": "mate-algarrobo.jpg"
+    },    
+    {
+        "id": 8,
+        "nombre": "Imperial algarrobo Guarda y Base de Alpaca ",
+        "categoria": "mates",
+        "descripcion": "Mate imperial premium de madera de algarrobo con guarda de alpaca y base completa de alpaca. Terminación de alta calidad.",
+        "precio": 0,
+        "destacado": false,
+        "imagen": "imperial-algarrobo-guardaybase-alpaca.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Imperial algarroba guarda de alpaca con Sol Argetino ",
+        "categoria": "mates",
+        "descripcion": "Mate imperial de madera de algarrobo con guarda de alpaca premium. Incluye dije de sol argentino tallado en madera como detalle decorativo.",
+        "precio": 0,
+        "destacado": false,
+        "imagen": "imperial-algarrobo-dijesol.jpg"
     },
     {
         "id": 10,
