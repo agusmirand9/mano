@@ -703,6 +703,10 @@ footer p {
         padding-top: 88px;
     }
 
+    .nav-logo span {
+        font-size: 1.5rem;
+    }
+
     .nav-logo img {
         height: 80px;
 
