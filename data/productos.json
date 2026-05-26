@@ -193,36 +193,9 @@
         "nombre": "Bombilla Alpaca Pico de Loro",
         "categoria": "bombillas",
         "descripcion": "Bombilla de alpaca con filtro pico de loro, ideal para yerbas finas y cortadas. Resistente y de fácil limpieza..",
-        "precio": 0,
+        "precio": 5000,
         "destacado": false,
         "imagen": "bombilla-picodeloro.jpg"
-    },
-    {
-        "id": 23,
-        "nombre": "Bombillon de Acero",
-        "categoria": "bombillas",
-        "descripcion": "Bombillón de acero inoxidable de mayor calibre, ideal para yerbas gruesas y mezclas. Resistente a la corrosión.",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "bombillon-acero.jpg"
-    },
-    {
-        "id": 24,
-        "nombre": "Bombillon de Bronce",
-        "categoria": "bombillas",
-        "descripcion": "Bombillón de bronce con acabado cálido y elegante. Excelente filtrado y resistencia..",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "bombillon-bronce.jpg"
-    },
-    {
-        "id": 25,
-        "nombre": "Bombilla de Alpaca",
-        "categoria": "bombillas",
-        "descripcion": "Bombilla de alpaca de diseño clásico y acabado plateado. Liviana, resistente y de fácil mantenimiento.",
-        "precio": 0,
-        "destacado": false,
-        "imagen": "bombilla-alpaca.jpg"
     },
     {
         "id": 26,
