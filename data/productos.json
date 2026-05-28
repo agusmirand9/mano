@@ -39,7 +39,7 @@
         "id": 5,
         "nombre": "Imperial de alpaca cuero repujado Bordo ",
         "categoria": "mates",
-        "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color marrón.",
+        "descripcion": "Mate imperial con guarda de alpaca. Interior de calabaza natural. Exterior revestido en cuero repujado color Bordo.",
         "precio":41500 ,
         "destacado": false,
         "imagen": "imperial-cuerorepujado-marron.jpg"
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "nombre": "Imperial algarroba guarda de alpaca con Sol Argetino ",
+        "nombre": "Imperial algarrobo guarda de alpaca con Sol Argentino ",
         "categoria": "mates",
         "descripcion": "Mate imperial de madera de algarrobo con guarda de alpaca premium. Incluye dije de sol argentino tallado en madera como detalle decorativo.",
         "precio": 35000,
@@ -257,7 +257,7 @@
         "descripcion": "Mate torpedo de calabaza natural con virola de bronce cincelada. Exterior revestido en cuero repujado color borravino.",
         "precio": 42000,
         "destacado": false,
-        "imagen": "torpedo-virolacincelada-bronce–cuerorepujado-bordo.jpg"
+        "imagen": "torpedo-virolacincelada-bronce-cuerorepujado-bordo.jpg"
     }, 
     {
         "id": 29,
