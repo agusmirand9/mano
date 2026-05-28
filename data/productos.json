@@ -209,7 +209,7 @@
     {
         "id": 24,
         "nombre": "Latas Azucarera y Yerbera",
-        "categoria": "Latas",
+        "categoria": "latas",
         "descripcion": "Par de latas de metal para azúcar y yerba, perfectas para mantener el orden en tu set de mate. Disponibles en seis colores: blanco, gris, violeta, rosa, verde y negro.",
         "precio": 9000,
         "destacado": true,
@@ -239,7 +239,7 @@
         "descripcion": "Mate imperial estilo Roma con base completa de alpaca cincelada y guarda de alpaca cincelada. Interior de calabaza natural. Exterior en cuero repujado color marrón. Terminación full alpaca.",
         "precio": 48000,
         "destacado": false,
-        "imagen": "imperial-roma-basecincelada-cuero repujado-marron.jpg"
+        "imagen": "imperial-roma-basecincelada-cuero-repujado-marron.jpg"
     },
     {
         "id": 27,
